@@ -1,4 +1,4 @@
-# Self-Driving-Car-on-Indian-Roads
+# Self-Driving-Car-on-Indian-Roads 
 Computer Vision Guided Deep Learning Network &amp; Machine Learning Techniques to build Fully-Functional Autonomous Vehicles
 
 ![](prediction_output.gif)  
@@ -65,4 +65,4 @@ python run_dataset_Test.py
 ```
 
 If you have any query or suggestion, you can reach me here.
-https://www.linkedin.com/in/ananduthaman/
+https://www.linkedin.com/in/jhparmar/
